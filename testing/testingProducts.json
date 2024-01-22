@@ -1,0 +1,392 @@
+[
+  {
+    "title": "Samsung Galaxy S21",
+    "description": "Potente smartphone con cámara de alta resolución.",
+    "code": "SGS21",
+    "price": 799,
+    "status": true,
+    "stock": 20,
+    "category": "Smartphones",
+    "thumbnails": [
+      "https://example.com/samsung-s21-1.jpg",
+      "https://example.com/samsung-s21-2.jpg"
+    ]
+  },
+  {
+    "title": "iPhone 13 Pro",
+    "description": "Elegante smartphone con potente rendimiento y pantalla ProMotion.",
+    "code": "IP13P",
+    "price": 899,
+    "status": true,
+    "stock": 15,
+    "category": "Smartphones",
+    "thumbnails": [
+      "https://example.com/iphone-13-pro-1.jpg",
+      "https://example.com/iphone-13-pro-2.jpg"
+    ]
+  },
+  {
+    "title": "Dell XPS 13",
+    "description": "Ultrabook con pantalla InfinityEdge y procesador potente.",
+    "code": "DXPS13",
+    "price": 1299,
+    "status": true,
+    "stock": 10,
+    "category": "Laptops",
+    "thumbnails": [
+      "https://example.com/dell-xps-13-1.jpg",
+      "https://example.com/dell-xps-13-2.jpg"
+    ]
+  },
+  {
+    "title": "MacBook Air M2",
+    "description": "Portátil ligero con chip M2 para un rendimiento excepcional.",
+    "code": "MBAIRM2",
+    "price": 1499,
+    "status": true,
+    "stock": 12,
+    "category": "Laptops",
+    "thumbnails": [
+      "https://example.com/macbook-air-m2-1.jpg",
+      "https://example.com/macbook-air-m2-2.jpg"
+    ]
+  },
+  {
+    "title": "Sony WH-1000XM4",
+    "description": "Auriculares inalámbricos con cancelación de ruido líder en la industria.",
+    "code": "WH1000XM4",
+    "price": 349,
+    "status": true,
+    "stock": 25,
+    "category": "Audio",
+    "thumbnails": [
+      "https://example.com/sony-wh1000xm4-1.jpg",
+      "https://example.com/sony-wh1000xm4-2.jpg"
+    ]
+  },
+  {
+    "title": "JBL Flip 5",
+    "description": "Altavoz Bluetooth portátil con sonido potente.",
+    "code": "JBLF5",
+    "price": 99,
+    "status": true,
+    "stock": 30,
+    "category": "Audio",
+    "thumbnails": [
+      "https://example.com/jbl-flip5-1.jpg",
+      "https://example.com/jbl-flip5-2.jpg"
+    ]
+  },
+  {
+    "title": "Canon EOS R5",
+    "description": "Cámara mirrorless con grabación de video 8K y enfoque automático avanzado.",
+    "code": "CEOSR5",
+    "price": 3499,
+    "status": true,
+    "stock": 8,
+    "category": "Cámaras",
+    "thumbnails": [
+      "https://example.com/canon-eos-r5-1.jpg",
+      "https://example.com/canon-eos-r5-2.jpg"
+    ]
+  },
+  {
+    "title": "GoPro Hero 10 Black",
+    "description": "Cámara de acción 5.3K con estabilización mejorada.",
+    "code": "GOPROH10B",
+    "price": 499,
+    "status": true,
+    "stock": 15,
+    "category": "Cámaras",
+    "thumbnails": [
+      "https://example.com/gopro-hero10-black-1.jpg",
+      "https://example.com/gopro-hero10-black-2.jpg"
+    ]
+  },
+  {
+    "title": "Anker PowerCore 20000",
+    "description": "Batería externa de alta capacidad para cargar dispositivos móviles.",
+    "code": "AP20000",
+    "price": 49,
+    "status": true,
+    "stock": 40,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://example.com/anker-powercore-20000-1.jpg",
+      "https://example.com/anker-powercore-20000-2.jpg"
+    ]
+  },
+  {
+    "title": "Logitech MX Master 3",
+    "description": "Ratón inalámbrico avanzado para productividad.",
+    "code": "LMXM3",
+    "price": 99,
+    "status": true,
+    "stock": 18,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://example.com/logitech-mx-master-3-1.jpg",
+      "https://example.com/logitech-mx-master-3-2.jpg"
+    ]
+  },
+  {
+    "title": "OnePlus 9",
+    "description": "Smartphone con pantalla Fluid AMOLED y carga rápida.",
+    "code": "OP9",
+    "price": 699,
+    "status": true,
+    "stock": 22,
+    "category": "Smartphones",
+    "thumbnails": [
+      "https://example.com/oneplus-9-1.jpg",
+      "https://example.com/oneplus-9-2.jpg"
+    ]
+  },
+  {
+    "title": "HP Spectre x360",
+    "description": "Portátil convertible con pantalla táctil y rendimiento excepcional.",
+    "code": "HPSX360",
+    "price": 1599,
+    "status": true,
+    "stock": 14,
+    "category": "Laptops",
+    "thumbnails": [
+      "https://example.com/hp-spectre-x360-1.jpg",
+      "https://example.com/hp-spectre-x360-2.jpg"
+    ]
+  },
+  {
+    "title": "Bose QuietComfort 45",
+    "description": "Auriculares con cancelación de ruido y sonido envolvente.",
+    "code": "BQC45",
+    "price": 299,
+    "status": true,
+    "stock": 20,
+    "category": "Audio",
+    "thumbnails": [
+      "https://example.com/bose-quietcomfort-45-1.jpg",
+      "https://example.com/bose-quietcomfort-45-2.jpg"
+    ]
+  },
+  {
+    "title": "Logitech G Pro X",
+    "description": "Teclado mecánico para gaming con interruptores intercambiables.",
+    "code": "LGPROX",
+    "price": 129,
+    "status": true,
+    "stock": 25,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://example.com/logitech-g-pro-x-1.jpg",
+      "https://example.com/logitech-g-pro-x-2.jpg"
+    ]
+  },
+  {
+    "title": "Nikon Z6",
+    "description": "Cámara mirrorless con sensor de fotograma completo y grabación 4K.",
+    "code": "NIKZ6",
+    "price": 1999,
+    "status": true,
+    "stock": 10,
+    "category": "Cámaras",
+    "thumbnails": [
+      "https://example.com/nikon-z6-1.jpg",
+      "https://example.com/nikon-z6-2.jpg"
+    ]
+  },
+  {
+    "title": "Xiaomi Mi 11",
+    "description": "Smartphone con pantalla AMOLED y potente configuración de cámara.",
+    "code": "XM11",
+    "price": 599,
+    "status": true,
+    "stock": 18,
+    "category": "Smartphones",
+    "thumbnails": [
+      "https://example.com/xiaomi-mi-11-1.jpg",
+      "https://example.com/xiaomi-mi-11-2.jpg"
+    ]
+  },
+  {
+    "title": "Lenovo Legion Y540",
+    "description": "Portátil gaming con procesador Intel Core i7 y gráficos NVIDIA GTX.",
+    "code": "LLY540",
+    "price": 1199,
+    "status": true,
+    "stock": 15,
+    "category": "Laptops",
+    "thumbnails": [
+      "https://example.com/lenovo-legion-y540-1.jpg",
+      "https://example.com/lenovo-legion-y540-2.jpg"
+    ]
+  },
+  {
+    "title": "Sennheiser HD 660 S",
+    "description": "Auriculares de alta fidelidad con diseño abierto y calidad de sonido excepcional.",
+    "code": "SHD660S",
+    "price": 499,
+    "status": true,
+    "stock": 12,
+    "category": "Audio",
+    "thumbnails": [
+      "https://example.com/sennheiser-hd660s-1.jpg",
+      "https://example.com/sennheiser-hd660s-2.jpg"
+    ]
+  },
+  {
+    "title": "Razer DeathAdder Elite",
+    "description": "Ratón para gaming con sensor óptico avanzado y retroiluminación RGB.",
+    "code": "RDAELITE",
+    "price": 69,
+    "status": true,
+    "stock": 22,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://example.com/razer-deathadder-elite-1.jpg",
+      "https://example.com/razer-deathadder-elite-2.jpg"
+    ]
+  },
+  {
+    "title": "Fujifilm X-T4",
+    "description": "Cámara mirrorless con estabilización de imagen en el cuerpo y grabación 4K.",
+    "code": "FUJXT4",
+    "price": 1799,
+    "status": true,
+    "stock": 10,
+    "category": "Cámaras",
+    "thumbnails": [
+      "https://example.com/fujifilm-x-t4-1.jpg",
+      "https://example.com/fujifilm-x-t4-2.jpg"
+    ]
+  },
+  {
+    "title": "Google  6",
+    "description": "Smartphone con cámara avanzada y experiencia Android pura.",
+    "code": "GP6",
+    "price": 699,
+    "status": true,
+    "stock": 20,
+    "category": "Smartphones",
+    "thumbnails": [
+      "https://example.com/google-pixel-6-1.jpg",
+      "https://example.com/google-pixel-6-2.jpg"
+    ]
+  },
+  {
+    "title": "Acer Predator Helios 300",
+    "description": "Portátil gaming con pantalla de 144Hz y potente tarjeta gráfica.",
+    "code": "APH300",
+    "price": 1299,
+    "status": true,
+    "stock": 15,
+    "category": "Laptops",
+    "thumbnails": [
+      "https://example.com/acer-predator-helios-300-1.jpg",
+      "https://example.com/acer-predator-helios-300-2.jpg"
+    ]
+  },
+  {
+    "title": "Bose SoundLink Revolve+",
+    "description": "Altavoz Bluetooth con sonido envolvente de 360 grados.",
+    "code": "BSLRP",
+    "price": 249,
+    "status": true,
+    "stock": 18,
+    "category": "Audio",
+    "thumbnails": [
+      "https://example.com/bose-soundlink-revolve-1.jpg",
+      "https://example.com/bose-soundlink-revolve-2.jpg"
+    ]
+  },
+  {
+    "title": "Corsair K95 RGB Platinum XT",
+    "description": "Teclado mecánico para gaming con retroiluminación RGB y teclas programables.",
+    "code": "CK95RGB",
+    "price": 199,
+    "status": true,
+    "stock": 25,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://example.com/corsair-k95-rgb-1.jpg",
+      "https://example.com/corsair-k95-rgb-2.jpg"
+    ]
+  },
+  {
+    "title": "Panasonic Lumix GH5",
+    "description": "Cámara mirrorless con grabación de video 4K a 60 fps y estabilización de imagen dual.",
+    "code": "PLGH5",
+    "price": 1999,
+    "status": true,
+    "stock": 10,
+    "category": "Cámaras",
+    "thumbnails": [
+      "https://example.com/panasonic-lumix-gh5-1.jpg",
+      "https://example.com/panasonic-lumix-gh5-2.jpg"
+    ]
+  },
+  {
+    "title": "Motorola Edge+",
+    "description": "Smartphone con pantalla OLED y cámara triple de alta resolución.",
+    "code": "MOEDGE",
+    "price": 899,
+    "status": true,
+    "stock": 15,
+    "category": "Smartphones",
+    "thumbnails": [
+      "https://example.com/motorola-edge-1.jpg",
+      "https://example.com/motorola-edge-2.jpg"
+    ]
+  },
+  {
+    "title": "Samsung Galaxy A52",
+    "description": "Smartphone con pantalla Super AMOLED y cámara versátil.",
+    "code": "SGA52",
+    "price": 399,
+    "status": true,
+    "stock": 18,
+    "category": "Smartphones",
+    "thumbnails": [
+      "https://example.com/samsung-galaxy-a52-1.jpg",
+      "https://example.com/samsung-galaxy-a52-2.jpg"
+    ]
+  },
+  {
+    "title": "Microsoft Surface Laptop 4",
+    "description": "Portátil ligero con pantalla táctil y procesador Intel Core de 11ª generación.",
+    "code": "MSLAP4",
+    "price": 1199,
+    "status": true,
+    "stock": 12,
+    "category": "Laptops",
+    "thumbnails": [
+      "https://example.com/microsoft-surface-laptop-4-1.jpg",
+      "https://example.com/microsoft-surface-laptop-4-2.jpg"
+    ]
+  },
+  {
+    "title": "Audio-Technica ATH-M50x",
+    "description": "Auriculares profesionales con calidad de sonido excepcional y diseño plegable.",
+    "code": "ATHM50X",
+    "price": 149,
+    "status": true,
+    "stock": 20,
+    "category": "Audio",
+    "thumbnails": [
+      "https://example.com/audio-technica-ath-m50x-1.jpg",
+      "https://example.com/audio-technica-ath-m50x-2.jpg"
+    ]
+  },
+  {
+    "title": "Sony Alpha 7 III",
+    "description": "Cámara mirrorless con sensor de fotograma completo y grabación de video 4K.",
+    "code": "SALPHA7III",
+    "price": 1999,
+    "status": true,
+    "stock": 8,
+    "category": "Cámaras",
+    "thumbnails": [
+      "https://example.com/sony-alpha-7-iii-1.jpg",
+      "https://example.com/sony-alpha-7-iii-2.jpg"
+    ]
+  }
+]
