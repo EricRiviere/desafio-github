@@ -19,15 +19,14 @@ router.get(
   passport.authenticate("github", { failureRedirect: "/github/error" }),
   async (req, res) => {
     const user = req.user;
-    req.session.rol = "user";
     req.session.user = {
       name: `${user.first_name} ${user.last_name}`,
       email: user.email,
       age: user.age,
-      rol: req.session.rol,
+      role: user.role,
     };
     req.session.admin = true;
-    res.redirect("/users");
+    res.redirect("/products");
   }
 );
 

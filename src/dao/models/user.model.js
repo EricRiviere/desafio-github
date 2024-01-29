@@ -11,6 +11,10 @@ const schema = new mongoose.Schema({
   },
   age: Number,
   password: String,
+  cart: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "carts",
+  },
   loggedBy: String,
   role: {
     type: String,
